@@ -25,3 +25,4 @@ Polymorphism](https://xnning.github.io/papers/row-bounded.pdf) at [ECOOP
 
 - [artifact.pdf](./artifact.pdf): Instructions of the artifact
 - [CoqProofs](./CoqProofs): Coq proofs
+- [paper.pdf](./artifact.pdf): Full paper with Appendix
